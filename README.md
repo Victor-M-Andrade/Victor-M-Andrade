@@ -23,7 +23,6 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 - Watch series and movies 🎬
 
 
-
 ## 🚀💻 Technologies & Tools
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,10 +43,9 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 
 ## ⚡ My profile - [@Victor_Andrade](https://victor-m-andrade.github.io/) 
 
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-M-Andrade&show_icons=true&theme=highcontrast)
-<img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-M-Andrade&hide=c%23,powershell,&title_color=dae415&text_color=e7e7e7&icon_color=2bbc8a&bg_color=000000&langs_count=8&layout=compact"/>
+<img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-M-Andrade&hide=c%23,powershell,&title_color=dae415&text_color=e7e7e7&icon_color=2bbc8a&bg_color=000000&langs_count=8&layout=compact" width="400" height="350"/>
 
 
 <!--
