@@ -13,7 +13,6 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 
 
 ### My hobbies:
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - Play games 🎮  
 [![PlayStation Badge](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white&link=https://my.playstation.com/profile/victorkbcao)](https://my.playstation.com/profile/victorkbcao)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/Z4Dbur)](https://steamcommunity.com/id/Z4Dbur)
@@ -21,6 +20,7 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 - Listen to music 🎧  
 - Learn something new 📚
 - Watch series and movies 🎬
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
 
 
 ## 🚀💻 Technologies & Tools
