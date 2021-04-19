@@ -9,7 +9,6 @@ I'm from Brazil and I am in the 5th period of Information Systems at [@FAI](http
 
 I currently an IT intern at [@R&M](https://www.rdm.com/).
 
-<br>
 
 ### My hobbies:
 - Play games 🎮  
