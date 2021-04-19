@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/zadbur)](https://twitter.com/zadbur)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/victormeneses.deandrade)](https://www.facebook.com/victormeneses.deandrade)
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ## About me
 I'm from Brazil and I am in the 5th period of Information Systems at [@FAI](https://www.fai-mg.br/portal/) and I develop in frontend and backend.
@@ -13,6 +13,7 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 
 
 ### My hobbies:
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - Play games 🎮  
 [![PlayStation Badge](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white&link=https://my.playstation.com/profile/victorkbcao)](https://my.playstation.com/profile/victorkbcao)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/Z4Dbur)](https://steamcommunity.com/id/Z4Dbur)
