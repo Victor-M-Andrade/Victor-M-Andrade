@@ -1,7 +1,9 @@
 # Hi 🖖, I'm Victor! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Victor-M-Andrade)](https://github.com/Victor-M-Andrade)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zadbur)](https://twitter.com/zadbur)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Victor-M-Andrade)](https://github.com/Victor-M-Andrade)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/zadbur)](https://twitter.com/zadbur)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/victormeneses.deandrade)](https://www.facebook.com/victormeneses.deandrade)
+
 
 ## About me
 I'm from Brazil and I am in the 5th period of Information Systems at [@FAI](https://www.fai-mg.br/portal/) and I develop in frontend and backend.
@@ -15,7 +17,6 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/Z4Dbur)](https://steamcommunity.com/id/Z4Dbur)
 - RPG board game 🎲⚔
 - Listen to music 🎧  
-![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 - Learn something new 📚
 - Watch series and movies 🎬
 
