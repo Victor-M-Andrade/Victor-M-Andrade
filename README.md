@@ -6,7 +6,8 @@
 ### About me
 I'm a young student from the 5th period of Information Systems and currently I develop in frontend and backend
 
-- [Courses] 👨🏼‍🏫 - Java, Python, etc
+- Knowledge 💻 - Python, Java, JavaScript, Html, Css, Php and Arduino
+- My profile ⚡ - [@Victor_Andrade](https://victor-m-andrade.github.io/).
 
 
 <!--
