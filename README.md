@@ -46,7 +46,7 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-M-Andrade&show_icons=true&theme=highcontrast)
-<img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-M-Andrade&hide=c%23,powershell,&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=large"/>
+<img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-M-Andrade&hide=c%23,powershell,&title_color=dae415&text_color=e7e7e7&icon_color=2bbc8a&bg_color=000000&langs_count=8&layout=compact"/>
 
 
 <!--
