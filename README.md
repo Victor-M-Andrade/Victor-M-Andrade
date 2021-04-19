@@ -11,7 +11,7 @@ I'm from Brazil and I am in the 5th period of Information Systems at [@FAI](http
 
 I currently an IT intern at [@R&M](https://www.rdm.com/).
 
-<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="230" />
+<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
 
 ### My hobbies:
 - Play games 🎮 
