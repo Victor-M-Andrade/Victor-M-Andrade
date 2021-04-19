@@ -1,8 +1,5 @@
 # Hi 🖖, I'm Victor! :D
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-M-Andrade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-M-Andrade&show_icons=true&theme=dark)
-
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=dark&link=https://github.com/Victor-M-Andrade)](https://github.com/Victor-M-Andrade)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Victor-M-Andrade)](https://github.com/Victor-M-Andrade)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/zadbur)](https://twitter.com/zadbur)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/victormeneses.deandrade)](https://www.facebook.com/victormeneses.deandrade)
 
@@ -43,6 +40,10 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 
 - My profile ⚡ - [@Victor_Andrade](https://victor-m-andrade.github.io/).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-M-Andrade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-M-Andrade&show_icons=true&theme=dark)
 
 <!--
 **Victor-M-Andrade/Victor-M-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
