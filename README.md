@@ -6,7 +6,7 @@
 ### About me
 I'm a young student of the 5th period of Information Systems at [FAI](https://www.fai-mg.br/portal/) and currently I develop in frontend and backend
 
-- 🚀💻 Technologies & Tools
+- #🚀💻 Technologies & Tools
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
