@@ -1,7 +1,7 @@
 # Hi 🖖, I'm Victor! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Victor-M-Andrade)](https://github.com/Victor-M-Andrade)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zadbur)](https://twitter.com/zadbur)
 
 ## About me
 I'm from Brazil and I am in the 5th period of Information Systems at [@FAI](https://www.fai-mg.br/portal/) and I develop in frontend and backend.
@@ -14,7 +14,8 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 [![PlayStation Badge](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white&link=https://my.playstation.com/profile/victorkbcao)](https://my.playstation.com/profile/victorkbcao)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/Z4Dbur)](https://steamcommunity.com/id/Z4Dbur)
 - RPG board game 🎲⚔
-- Listen to music 🎧
+- Listen to music 🎧  
+![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 - Learn something new 📚
 - Watch series and movies 🎬
 
