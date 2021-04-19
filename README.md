@@ -4,9 +4,14 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
 
 ## About me
-I'm a young student of the 5th period of Information Systems at [FAI](https://www.fai-mg.br/portal/) and currently I develop in frontend and backend.
+I'm from Brazil and I am currently in the 5th period of Information Systems at [@FAI](https://www.fai-mg.br/portal/) and currently I develop in frontend and backend.
 
-###My hobbies:
+### My hobbies:
+- Play games 🎮 (PSN id: victorkbcao, Steam id: Zadbur)
+- RPG board game 🎲⚔
+- Listen to music 🎧
+- Learn something new 📚
+- Watch series and movies 🎬
 
 ## 🚀💻 Technologies & Tools
 
