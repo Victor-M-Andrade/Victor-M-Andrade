@@ -49,5 +49,7 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 <img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-M-Andrade&hide=c%23,powershell,&title_color=dae415&text_color=e7e7e7&icon_color=2bbc8a&bg_color=000000&langs_count=8&layout=large" height="195"/>
 
 
+<img align='auto' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 <!--
 **Victor-M-Andrade/Victor-M-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
