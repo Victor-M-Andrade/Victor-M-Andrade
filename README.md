@@ -3,10 +3,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Victor-M-Andrade)](https://github.com/Victor-M-Andrade)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
 
-### About me
+## About me
 I'm a young student of the 5th period of Information Systems at [FAI](https://www.fai-mg.br/portal/) and currently I develop in frontend and backend
 
-# 🚀💻 Technologies & Tools
+## 🚀💻 Technologies & Tools
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
