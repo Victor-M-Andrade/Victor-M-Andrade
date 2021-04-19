@@ -19,7 +19,6 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 - Learn something new 📚
 - Watch series and movies 🎬
 
-<br>
 
 ## 🚀💻 Technologies & Tools
 
@@ -37,8 +36,6 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 ![Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Word Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-<br>
 
 
 - ## My profile ⚡ - [@Victor_Andrade](https://victor-m-andrade.github.io/).
