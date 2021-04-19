@@ -15,7 +15,8 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 
 ### My hobbies:
 - Play games 🎮 
-- [![PlayStation Badge](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white&link=https://my.playstation.com/profile/victorkbcao)](https://my.playstation.com/profile/victorkbcao)
+
+  [![PlayStation Badge](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white&link=https://my.playstation.com/profile/victorkbcao)](https://my.playstation.com/profile/victorkbcao)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/Z4Dbur)](https://steamcommunity.com/id/Z4Dbur)
 - RPG board game 🎲⚔
 - Listen to music 🎧  
