@@ -42,7 +42,7 @@ I currently an IT intern at [@R&M](https://www.rdm.com/).
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-## ⚡ My profile - [@Victor_Andrade](https://victor-m-andrade.github.io/) 
+## ⚡ Git Stats
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-M-Andrade&show_icons=true&theme=highcontrast)
