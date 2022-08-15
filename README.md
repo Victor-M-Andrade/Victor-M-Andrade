@@ -8,7 +8,7 @@
 
 
 ## About me
-I'm from Brazil and I am in the 5th period of Information Systems at [@FAI](https://www.fai-mg.br/portal/) and I develop in frontend and backend.
+I'm from Brazil and I am in the 8th period of Information Systems at [@FAI](https://www.fai-mg.br/portal/) and I develop in frontend and backend.
 
 I currently an IT intern at [@R&M](https://www.rdm.com/).
 
